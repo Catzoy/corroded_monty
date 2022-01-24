@@ -6,16 +6,14 @@
 #If the input array is empty or null, return an empty array
 
 def count_positives_sum_negatives(arr):
-    counter = 0
-    sum = 0
     if not arr:
         return []
+    counter = 0
+    sum = 0
     for i in arr:
-        if i == 0:
-            continue
-        elif i > 0:
-            counter +=1
-        else:
-            sum = sum + i
+        if i > 0:
+            counter += 1
+        elif i < 0:
+            sum += i
     return [counter,sum]
 
