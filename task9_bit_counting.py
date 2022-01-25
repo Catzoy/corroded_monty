@@ -8,8 +8,5 @@
 
 
 def count_bits(n):
-    counter = 0
-    for i in '{0:08b}'.format(n):
-        if i == '1':
-            counter += 1
-    return counter
+    return len([x for x in '{0:08b}'.format(n) if x == '1'])
+
