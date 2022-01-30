@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+rust_versions/.idea
+rust_versions/target
+
