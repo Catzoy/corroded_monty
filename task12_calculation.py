@@ -13,52 +13,34 @@
 # The most outer function represents the left operand, the most inner function represents the right operand
 # Division should be integer division. For example, this should return 2, not 2.666666...:
 # eight(divided_by(three()))
+def process_digits(digit, operation):
+    return digit if operation == None else operation(digit)
 def zero(operation=None): 
-    if operation == None:
-        return 0
-    return operation(0)
-def one(operation=None): #your code here
-    if operation == None:
-        return 1
-    return operation(1)
+    return process_digits(0,operation)
+def one(operation=None): 
+    return process_digits(1,operation)
 def two(operation=None): 
-    if operation == None:
-        return 2
-    return operation(2)
-def three(operation=None): #your code here
-    if operation == None:
-        return 3
-    return operation(3)
-def four(operation=None): #your code here
-    if operation == None:
-        return 4
-    return operation(4) 
-def five(operation=None): #your code here
-    if operation == None:
-        return 5
-    return operation(5)
-def six(operation=None): #your code here
-    if operation == None:
-        return 6
-    return operation(6)
-def seven(operation=None): #your code here
-    if operation == None:
-        return 7
-    return operation(7)
-def eight(operation=None): #your code here
-    if operation == None:
-        return 8
-    return operation(8)
-def nine(operation=None): #your code here
-    if operation == None:
-        return 9
-    return operation(9)
+    return process_digits(2,operation)
+def three(operation=None): 
+    return process_digits(3,operation)
+def four(operation=None): 
+    return process_digits(4,operation) 
+def five(operation=None): 
+    return process_digits(5,operation)
+def six(operation=None): 
+    return process_digits(6,operation)
+def seven(operation=None): 
+    return process_digits(7,operation)
+def eight(operation=None): 
+    return process_digits(8,operation)
+def nine(operation=None): 
+    return process_digits(9,operation)
 
-def plus(n): #your code here
+def plus(n): 
     return lambda k: k + n
-def minus(n): #your code here
+def minus(n): 
     return lambda k: k - n
-def times(n): #your code here
+def times(n): 
     return lambda k: k * n
-def divided_by(n): #your code here
+def divided_by(n): 
     return lambda k: k // n
