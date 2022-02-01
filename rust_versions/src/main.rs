@@ -1,8 +1,11 @@
 use crate::task11_to_rust::sort_array;
-
+use crate::task12_to_rust;
 mod task11_to_rust;
+mod tast12_to_rust;
+
 
 fn main() {
 
-    println!("{:?}", sort_array(vec![7,4,3,5,2,1]))
+
+    println!("{:?}", zero(plus(one())))
 }
