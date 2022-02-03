@@ -6,4 +6,6 @@ not in condition to do any tasks today :) Only came home
 29.01.2022
 only came home from Nasty's parents, no task for today :)
 02.02.2022
-dnd
+dnd 
+03.02.2022
+Nastya's sister's birthday...
