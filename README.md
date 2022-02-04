@@ -9,3 +9,5 @@ only came home from Nasty's parents, no task for today :)
 dnd 
 03.02.2022
 Nastya's sister's birthday...
+04.02.2022
+Theory day. Reading all staff
