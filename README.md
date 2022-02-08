@@ -11,3 +11,5 @@ dnd
 Nastya's sister's birthday...
 04.02.2022
 Theory day. Reading all staff
+08.02.2022
+training.... I'm exhausted 
