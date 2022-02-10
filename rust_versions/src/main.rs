@@ -1,11 +1,8 @@
-use crate::task11_to_rust::sort_array;
-use crate::task12_to_rust;
-mod task11_to_rust;
-mod tast12_to_rust;
-
+use crate::task15_to_rust::next_bigger_number;
+mod task15_to_rust;
 
 fn main() {
 
-
-    println!("{:?}", zero(plus(one())))
+    let output = next_bigger_number(890);
+    println!("{:?}", output);
 }
