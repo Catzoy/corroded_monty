@@ -13,3 +13,5 @@ Nastya's sister's birthday...
 Theory day. Reading all staff
 08.02.2022
 training.... I'm exhausted 
+11.02.2022
+rest day 
