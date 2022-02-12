@@ -15,3 +15,5 @@ Theory day. Reading all staff
 training.... I'm exhausted 
 11.02.2022
 rest day 
+12.02.2022
+Make notes and repeat theory 
