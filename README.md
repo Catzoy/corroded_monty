@@ -3,5 +3,4 @@ Change from Linux
 I've done one small task for today - too tired after work and training :*
 21.01.2022
 not in condition to do any tasks today :) Only came home
-26.01.2022
-днд:(
+
