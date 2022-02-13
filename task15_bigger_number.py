@@ -8,4 +8,4 @@ def next_bigger(n):
         if sorted(list(str(output))) == min_num:
             return output
     return -1
-print(next_bigger(890))
+print(next_bigger(8346329569236596239))
