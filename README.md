@@ -17,3 +17,5 @@ training.... I'm exhausted
 rest day 
 12.02.2022
 Make notes and repeat theory 
+15.02.2022
+Watched series with Nastya whole day... Promise to commit to tasks tomorrow for two days :)
