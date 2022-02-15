@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/src/task15_to_rust",
+            "program": "${workspaceFolder}/rust_versions/target/debug/rust_versions",
             "args": [],
             "cwd": "${workspaceFolder}"
         }
