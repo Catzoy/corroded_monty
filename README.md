@@ -21,3 +21,5 @@ Make notes and repeat theory
 Watched series with Nastya whole day... Promise to commit two* tasks tomorrow for two days :)
 16.02.2022
 theory day
+17.02.2022
+boxing day
