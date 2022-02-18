@@ -23,3 +23,5 @@ Watched series with Nastya whole day... Promise to commit two* tasks tomorrow fo
 theory day
 17.02.2022
 boxing day
+18.02.2022
+Theory day and guitar 
