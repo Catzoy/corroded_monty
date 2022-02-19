@@ -25,3 +25,5 @@ theory day
 boxing day
 18.02.2022
 Theory day and guitar 
+19.02.2022
+only came home :) Tomorrow will do for two days
