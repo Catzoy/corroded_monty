@@ -5,12 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "lldb",
+            "name": "Python: Текущий файл",
+            "type": "python",
             "request": "launch",
-            "name": "Debug",
-            "program": "${workspaceFolder}/src/task15_to_rust",
-            "args": [],
-            "cwd": "${workspaceFolder}"
-        }
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        // {
+        //     "type": "lldb",
+        //     "request": "launch",
+        //     "name": "Debug",
+        //     "program": "${workspaceFolder}/task18_plus_one_array.py",
+        //     "args": [],
+        //     "cwd": "${workspaceFolder}"
+        // }
     ]
 }
