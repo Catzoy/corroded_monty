@@ -29,3 +29,5 @@ Theory day and guitar
 only came home :) Tomorrow will do for two days
 20.02.2022
 tu-tu, chuh-chuh-chuh
+22.02.2022
+training day
